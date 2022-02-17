@@ -1,0 +1,77 @@
+polygon
+color
+255 80 80
+point
+-2 3 -10
+point
+-2 3 10
+point
+2 3 10
+point
+2 3 -10
+end
+
+polygon
+color
+255 80 80
+point
+-2 0 -10
+point
+-2 0 10
+point
+2 0 10
+point
+2 0 -10
+end
+
+polygon
+color
+255 80 80
+point
+-2 3 -10
+point
+-2 3 10
+point
+-2 0 10
+point
+-2 0 -10
+end
+
+polygon
+color
+255 80 80
+point
+2 3 -10
+point
+2 3 10
+point
+2 0 10
+point
+2 0 -10
+end
+
+polygon
+color
+100 100 100
+point
+-2 3 -10
+point
+2 3 -10
+point
+2 0 -10
+point
+-2 0 -10
+end
+
+polygon
+color
+100 100 100
+point
+-2 3 10
+point
+2 3 10
+point
+2 0 10
+point
+-2 0 10
+end

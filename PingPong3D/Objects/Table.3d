@@ -1,0 +1,183 @@
+polygon
+color
+30 130 75
+normal
+
+point
+-100 0 -50
+point
+100 0 -50
+point
+100 0 50
+point
+-100 0 50
+end
+
+polygon
+color
+235 225 195
+point
+-100 0 -50
+point
+100 0 -50
+point
+100 5 -50
+point
+-100 5 -50
+end
+
+polygon
+color
+235 225 195
+point
+-100 0 50
+point
+100 0 50
+point
+100 5 50
+point
+-100 5 50
+end
+
+polygon
+color
+235 225 195
+point
+-100 0 -50
+point
+-100 0 50
+point
+-100 5 50
+point
+-100 5 -50
+end
+
+polygon
+color
+235 225 195
+point
+100 0 -50
+point
+100 0 50
+point
+100 5 50
+point
+100 5 -50
+end
+
+polygon
+color
+235 225 195
+point
+-105 5 -50
+point
+105 5 -50
+point
+105 5 -55
+point
+-105 5 -55
+end
+
+polygon
+color
+235 225 195
+point
+-105 5 50
+point
+105 5 50
+point
+105 5 55
+point
+-105 5 55
+end
+
+polygon
+color
+235 225 195
+point
+-100 5 50
+point
+-100 5 -50
+point
+-105 5 -50
+point
+-105 5 50
+end
+
+polygon
+color
+235 225 195
+point
+100 5 50
+point
+100 5 -50
+point
+105 5 -50
+point
+105 5 50
+end
+
+polygon
+color
+235 225 195
+point
+-105 5 -55
+point
+105 5 -55
+point
+105 -5 -55
+point
+-105 -5 -55
+end
+
+polygon
+color
+235 225 195
+point
+-105 5 55
+point
+105 5 55
+point
+105 -5 55
+point
+-105 -5 55
+end
+
+polygon
+color
+235 225 195
+point
+-105 5 -55
+point
+-105 5 55
+point
+-105 -5 55
+point
+-105 -5 -55
+end
+
+polygon
+color
+235 225 195
+point
+105 5 -55
+point
+105 5 55
+point
+105 -5 55
+point
+105 -5 -55
+end
+
+polygon
+color
+235 225 195
+point
+105 -5 55
+point
+-105 -5 55
+point
+-105 -5 -55
+point
+105 -5 -55
+end
